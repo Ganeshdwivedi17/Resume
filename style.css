@@ -1,0 +1,47 @@
+body{
+    background-color: white;
+}
+h1{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+h2{
+font-size: 25px;
+}
+.profile-img{
+    border-radius: 100%;
+    text-align: center;
+    width: 60%;
+}
+.row{
+    margin: 10% 10%;
+}
+.left{
+    width: 40%;
+    background-color: rgb(3, 27, 49);
+    color: white;
+    line-height: 3rem;
+}
+.top{
+    text-align: center;
+}
+hr{
+    width: 90%;
+    color: white;
+    font-size: 50px;
+}
+.left-text{
+    padding: 10% 0;
+padding-left: 7%;
+}
+.right{
+    color: black;
+    background-color: rgb(217, 220, 223);
+   padding: 7% 5%;
+   text-align: justify;
+}
+.right hr{
+    color: black;
+}
+.right h2{
+    padding-bottom: 15%;
+}
